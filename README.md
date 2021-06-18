@@ -1,3 +1,3 @@
 # ComputerVision
 
-This directory contains projects related to computer visions.
+This directory contains projects related to computer vision.
